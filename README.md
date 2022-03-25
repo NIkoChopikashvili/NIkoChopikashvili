@@ -10,4 +10,4 @@
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... <a href="mailto:nikochopikashvili@yahoo.com">Email Address</a>
 - 😄 Pronouns: ... He / Him
-- ⚡ Fun fact: ... I'm from Georgia (Country)
+- ⚡ Fun fact: ... I Love Coding
