@@ -1,16 +1,13 @@
+![gif](https://github.com/NikaKereselidze/NikaKereselidze/blob/main/giphy.gif?raw=true)
+
 ### Hi there 👋
 
-<!--
-**NIkoChopikashvili/NIkoChopikashvili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on ... Node.js
+- 🌱 I’m currently learning ... React Native && Java
+- 👯 I’m looking to collaborate on ... React Native && Java Projects
+- 🤔 I’m looking for help with ... React Native && Java
+- 💬 Ask me about ... Anything
+- 📫 How to reach me: ... <a href="mailto:nikochopikashvili@yahoo.com">Email Address</a>
+- 😄 Pronouns: ... He / Him
+- ⚡ Fun fact: ... I'm from Georgia (Country)
