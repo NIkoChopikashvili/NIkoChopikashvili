@@ -9,5 +9,3 @@
 - 🤔 I’m looking for help with ... React Native && Java
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... <a href="mailto:nikochopikashvili@yahoo.com">Email Address</a>
-- 😄 Pronouns: ... He / Him
-- ⚡ Fun fact: ... I Love Coding
