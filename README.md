@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on ... React Native && C Projects
 - 🤔 I’m looking for help with ... React Native && C
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... <a href="mailto:nikochopikashvili@yahoo.com">nikakereselidze17@gmail.com</a>
+- 📫 How to reach me: ... <a href="mailto:nikochopikashvili@yahoo.com">nikochopikashvili@yahoo.com</a>
 - 😄 Pronouns: ... He / Him
 - ⚡ Fun fact: ... I'm from Georgia (Country)
 
