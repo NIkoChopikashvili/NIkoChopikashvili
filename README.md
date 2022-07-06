@@ -1,10 +1,3 @@
-![gif](https://media.giphy.com/media/fsoCk5kgOcYMM/giphy-downsized-large.gif)
-<br /><br />
-<a href="https://twitter.com/intent/follow?screen_name=NikaKeresa17"><img src="https://img.shields.io/twitter/follow/NikaKeresa17?style=social" /></a>
-[![Linkedin: Nika Kereselidze](https://img.shields.io/badge/-Nika%20Kereselidze-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/nika-kereselidze-67b4a7219/)](https://www.linkedin.com/in/nika-kereselidze-67b4a7219/)
-![](https://visitor-badge.glitch.me/badge?page_id=nikakereselidze.nikakereselidze)
-
-
 ### Hi there 👋
 
 
@@ -13,11 +6,11 @@
 - 👯 I’m looking to collaborate on ... React Native && C Projects
 - 🤔 I’m looking for help with ... React Native && C
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... <a href="mailto:nikakereselidze17@gmail.com">nikakereselidze17@gmail.com</a>
+- 📫 How to reach me: ... <a href="mailto:nikochopikashvili@yahoo.com">nikakereselidze17@gmail.com</a>
 - 😄 Pronouns: ... He / Him
 - ⚡ Fun fact: ... I'm from Georgia (Country)
 
-![](https://activity-graph.herokuapp.com/graph?username=NikaKereselidze&theme=react-dark)
+![](https://activity-graph.herokuapp.com/graph?username=NIkoChopikashvili&theme=react-dark)
 
 ## My Skills 💪
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -38,7 +31,7 @@
 ![](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NikaKereselidze&theme=dark&langs_count=10)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NIkoChopikashvili&theme=dark&langs_count=10)
 
 ## My Streak 📉
-![](https://github-readme-streak-stats.herokuapp.com/?user=NikaKereselidze&theme=dark)
+![](https://github-readme-streak-stats.herokuapp.com/?user=NIkoChopikashvili&theme=dark)
