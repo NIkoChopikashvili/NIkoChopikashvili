@@ -7,7 +7,6 @@
 - 🤔 I’m looking for help with ... React Native && C
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... <a href="mailto:nikochopikashvili@yahoo.com">nikochopikashvili@yahoo.com</a>
-- 😄 Pronouns: ... He / Him
 - ⚡ Fun fact: ... I'm from Georgia (Country)
 
 ![](https://activity-graph.herokuapp.com/graph?username=NIkoChopikashvili&theme=react-dark)
