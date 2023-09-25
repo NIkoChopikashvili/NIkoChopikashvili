@@ -1,13 +1,3 @@
-### Hi there 👋
-
-
-- 🔭 I’m currently working on ... Node.js
-- 🌱 I’m currently learning ... React Native && C
-- 👯 I’m looking to collaborate on ... React Native && C Projects
-- 🤔 I’m looking for help with ... React Native && C
-- 💬 Ask me about ... Anything
-- 📫 How to reach me: ... <a href="mailto:nikochopikashvili@yahoo.com">nikochopikashvili@yahoo.com</a>
-- ⚡ Fun fact: ... I'm from Georgia (Country)
 
 ![](https://activity-graph.herokuapp.com/graph?username=NIkoChopikashvili&theme=react-dark)
 
